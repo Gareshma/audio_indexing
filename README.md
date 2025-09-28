@@ -28,8 +28,8 @@ This project extracts audio from a video file, converts it to text, creates word
 - Enter the index number of the occurrence, playback starts from that timestamp (press q to stop).
 
 ## Example
-Enter a word to check its occurrences: start
-[1] start -> starts at 10.23s, ends at 10.78s
-[2] start -> starts at 40.23s, ends at 42.78s
-Enter the index number to play from that occurrence: 2
-Playing from 10.23s. Press 'q' in the ffplay window to stop.
+- Enter a word to check its occurrences: start
+- [1] start -> starts at 10.23s, ends at 10.78s
+- [2] start -> starts at 40.23s, ends at 42.78s
+- Enter the index number to play from that occurrence: 2
+- Playing from 10.23s. Press 'q' in the ffplay window to stop.
